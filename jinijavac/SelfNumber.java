@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.List;
+
+//4673
 public class SelfNumber {
     public static void main(String[] args) {
         //1. 생성자 계산 메서드
