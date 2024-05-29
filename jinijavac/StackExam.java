@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 //시간초과 --> buffered 사용해야 할 듯
@@ -76,3 +77,7 @@ public class StackExam {
         }
     }
 }
+=======
+package PACKAGE_NAME;public class StackExam {
+}
+>>>>>>> ffd4ae8dd9e12492ccf94b511092cf7e353d2ceb
