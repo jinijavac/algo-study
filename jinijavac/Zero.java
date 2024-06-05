@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 import java.util.Scanner;
 import java.util.Stack;
@@ -27,7 +27,3 @@ public class Zero {
         System.out.println(sum);
     }
 }
-=======
-package PACKAGE_NAME;public class Zero {
-}
->>>>>>> ffd4ae8dd9e12492ccf94b511092cf7e353d2ceb
