@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -65,3 +66,7 @@ public class MakeItOne {
 // dp[2] + 1 + 1 + 1 = 1 + 1 + 1 + 1 = 4
 
 //*** 2번보다 1번이 횟수가 더 적음 --> 비교 후 횟수 3 채택
+=======
+package PACKAGE_NAME;public class MakeItOne {
+}
+>>>>>>> ff4446672123670586feaa5657dfdbf3ecd3825a

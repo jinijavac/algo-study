@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -45,3 +46,7 @@ public class SugarDelivery {
 // | 8      | 3     | 1          | 1          | 2         |
 // | 9      | 4     | 0          | 3          | 3         |
 // | 10     | 0     | 2          | 0          | 2         |
+=======
+package PACKAGE_NAME;public class SugarDelivery {
+}
+>>>>>>> ff4446672123670586feaa5657dfdbf3ecd3825a
